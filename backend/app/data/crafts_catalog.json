@@ -1,0 +1,2074 @@
+[
+  {
+    "id": "craft-pb-01",
+    "title": "Self-Watering Sprout Planter",
+    "description": "Transform an empty plastic bottle into a clever self-watering pot that keeps small herbs and seeds hydrated!",
+    "category": "Gardening",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "plastic bottle",
+      "water bottle",
+      "soda bottle",
+      "pop bottle"
+    ],
+    "age_min": 5,
+    "age_max": 12,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 20,
+    "eco_points": 15,
+    "requires_adult": true,
+    "safety_precautions": "Ask an adult to cut the plastic bottle into two halves. Cover the cut rim with soft masking tape.",
+    "materials": [
+      "1 clean plastic bottle",
+      "Cotton string or yarn (20cm)",
+      "Potting soil",
+      "Fast-growing seeds (beans or basil)",
+      "Water"
+    ],
+    "tools": [
+      "Safety scissors (adult assistance for cutting)",
+      "Masking tape",
+      "Color markers or stickers"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Prep and Cut",
+        "instruction": "Rinse the bottle cleanly. With an adult's help, cut the bottle horizontally about 10cm from the top to create a funnel top and a reservoir base.",
+        "tip": "Cover the cut edges with paper tape to keep them silky smooth for little hands!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Thread the Wick",
+        "instruction": "Thread the cotton string through the bottle mouth. Half of the string will hang down into the reservoir, and the other half will sit inside the top funnel.",
+        "tip": "Cotton draws water upward naturally by capillary action\u2014just like plant roots!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Soil and Plant",
+        "instruction": "Invert the top funnel into the base. Fill the funnel with soil around the wick, gently press your seeds 1cm deep, and add water to the base reservoir.",
+        "tip": "Place your new planter near a sunny windowsill and watch the green sprouts appear in 3\u20135 days!"
+      }
+    ],
+    "environmental_tip": "Plastic bottles take over 450 years to decompose in nature. Reusing them as garden planters gives them a happy second life!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pb-02",
+    "title": "Cosmic Jetpack Rocket",
+    "description": "Blast off into space adventures by creating a wearable double-rocket jetpack from two twin plastic bottles!",
+    "category": "Toys",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "plastic bottle",
+      "soda bottle",
+      "water bottle"
+    ],
+    "age_min": 6,
+    "age_max": 11,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 35,
+    "eco_points": 20,
+    "requires_adult": false,
+    "safety_precautions": "Ensure bottles are washed and fully dried. Use non-toxic water-based paints and child-safe glue.",
+    "materials": [
+      "2 matching plastic bottles",
+      "Cardboard back-plate (20x25cm)",
+      "Red, yellow, and orange tissue paper ribbons",
+      "Yarn or backpack ribbons",
+      "Silver or gray paint"
+    ],
+    "tools": [
+      "Child safety scissors",
+      "School craft glue",
+      "Paintbrush"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Paint the Thrusters",
+        "instruction": "Paint both clean plastic bottles with shiny silver or space-gray paint. Let them dry for 15 minutes.",
+        "tip": "Add planet stickers or star drawings to personalize your space engines!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Make Flame Streamers",
+        "instruction": "Cut fiery strips of red, orange, and yellow tissue paper. Glue the tops of the streamers inside the bottle spouts so they flutter like roaring rocket flames.",
+        "tip": "Crinkle the edges slightly to make the fire look crackling and dynamic!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Attach the Straps",
+        "instruction": "Glue the two bottles side by side onto the cardboard sheet. Punch two holes on each side for ribbon straps that loop comfortably over your shoulders.",
+        "tip": "Strap on your jetpack and countdown: 3, 2, 1... Lift off!"
+      }
+    ],
+    "environmental_tip": "Every minute, 1 million plastic bottles are bought around the world. Turning two into toys saves landfill space!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pb-03",
+    "title": "Fluttering Bottle Butterfly",
+    "description": "Create translucent suncatcher butterflies from smooth curved plastic bottle panels that glow vibrantly in sunlight.",
+    "category": "Art",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "plastic bottle",
+      "water bottle",
+      "clear bottle"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": true,
+    "safety_precautions": "Adult assistance is required to slice open the middle cylindrical section of the bottle.",
+    "materials": [
+      "1 clear smooth plastic bottle",
+      "Permanent or acrylic marker pens",
+      "Pipe cleaner or craft wire",
+      "Thread for hanging"
+    ],
+    "tools": [
+      "Safety scissors",
+      "Hole punch",
+      "Butterfly stencil / paper outline"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Flatten the Plastic Sheet",
+        "instruction": "With an adult's help, cut away the top and bottom of the bottle to yield a smooth plastic rectangle.",
+        "tip": "Bend it gently backward under warm water to make it lie flatter."
+      },
+      {
+        "step_number": 2,
+        "heading": "Trace and Color the Wings",
+        "instruction": "Place a butterfly outline beneath the clear plastic. Trace the wings with a black marker, then color the wing patterns with bright rainbow markers.",
+        "tip": "Leave thin clear gaps between colors so light shines through like stained glass!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Assemble Body & Hang",
+        "instruction": "Carefully cut out the butterfly outline. Wrap a fuzzy pipe cleaner down the center for the body and bend two tips into curly antennae. Tie a string to hang.",
+        "tip": "Hang it by your window and watch the sun cast colorful butterfly shadows on your wall!"
+      }
+    ],
+    "environmental_tip": "Upcycling clear plastics saves petroleum resources and prevents microplastic hazards in waterways.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-bc-01",
+    "title": "Mosaic Bottle Cap Coasters",
+    "description": "Arrange colorful plastic bottle caps into cheerful geometric coasters that brighten up any breakfast table.",
+    "category": "Decorations",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "bottle cap",
+      "bottle caps",
+      "plastic cap",
+      "lid"
+    ],
+    "age_min": 5,
+    "age_max": 10,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 20,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Use non-toxic white craft glue. Ensure bottle caps are washed and clean.",
+    "materials": [
+      "7 to 12 colorful plastic bottle caps",
+      "Circular cork or thick cardboard base (10cm diameter)",
+      "White craft glue or tacky glue"
+    ],
+    "tools": [
+      "Paintbrush or glue spatula",
+      "Damp cloth for cleanups"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Collect and Sort Colors",
+        "instruction": "Sort your bottle caps by color. Try creating a flower pattern with 1 center cap and 6 surrounding petal caps.",
+        "tip": "Mixing contrasting colors like blue, yellow, and red creates striking pop art!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Glue to Base",
+        "instruction": "Apply a generous layer of white craft glue over the cardboard circle. Press the bottle caps firmly rim-down into the glue.",
+        "tip": "Hold each cap down for 5 seconds so the glue grabs hold securely."
+      },
+      {
+        "step_number": 3,
+        "heading": "Dry and Finish",
+        "instruction": "Let your coaster dry flat for 2 to 3 hours until the glue turns completely clear and rock solid.",
+        "tip": "Your custom recycled coaster is ready to hold cold drinks and mugs!"
+      }
+    ],
+    "environmental_tip": "Bottle caps are one of the top 5 debris items found on ocean beaches. Gathering and crafting with them saves marine wildlife!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-bc-02",
+    "title": "Rattling Castanets & Percussion",
+    "description": "Make lively Spanish-style musical castanets using cardboard strips and bottle caps for rhythmic beat-making!",
+    "category": "Toys",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "bottle cap",
+      "plastic cap",
+      "metal bottle cap"
+    ],
+    "age_min": 5,
+    "age_max": 8,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 15,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Ensure metal caps have smooth dull edges, or use plastic caps for younger kids.",
+    "materials": [
+      "2 bottle caps (metal or plastic)",
+      "Sturdy cardboard strip (4cm x 16cm)",
+      "Crayons or markers",
+      "School tacky glue"
+    ],
+    "tools": [
+      "Safety scissors",
+      "Ruler"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Fold the Clicker Strip",
+        "instruction": "Take the cardboard strip and fold it right in half. Crease the fold firmly so the two halves spring slightly open like an alligator mouth.",
+        "tip": "Decorate the cardboard with animal faces or music notes before gluing caps."
+      },
+      {
+        "step_number": 2,
+        "heading": "Attach the Sound Caps",
+        "instruction": "Glue one bottle cap inside near the top tip, and glue the second bottle cap directly opposite it on the other side.",
+        "tip": "Make sure the two cap rims line up squarely so they strike each other with a crisp 'clack'!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Play Along to Music",
+        "instruction": "Hold the fold between your thumb and index finger. Squeeze rhythmically to create musical clicks along with your favorite song!",
+        "tip": "Try making two\u2014one for each hand\u2014and start your own recycled rhythm band!"
+      }
+    ],
+    "environmental_tip": "Making homemade rhythm toys replaces single-use plastic toy packaging from stores.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-bc-03",
+    "title": "Little Animal Finger Puppets",
+    "description": "Turn bottle caps into cute miniature animal figures: ladybugs, bees, frogs, and owls with googly eyes!",
+    "category": "Animals",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "bottle cap",
+      "plastic cap"
+    ],
+    "age_min": 5,
+    "age_max": 9,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 20,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Googly eyes and small parts require supervision for children under 5 to prevent swallowing.",
+    "materials": [
+      "Plastic bottle caps (red, green, or yellow)",
+      "Googly eyes",
+      "Felt or colored paper scraps",
+      "Black marker"
+    ],
+    "tools": [
+      "Child scissors",
+      "Glue stick"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Choose Your Creature",
+        "instruction": "Pick a red cap for a ladybug, a green cap for a tree frog, or a yellow cap for a bumblebee.",
+        "tip": "Wipe the cap dry so marker ink adheres cleanly."
+      },
+      {
+        "step_number": 2,
+        "heading": "Add Face and Spots",
+        "instruction": "Glue two googly eyes onto the cap. Use your black marker to draw ladybug spots, bee stripes, or a smiling frog mouth.",
+        "tip": "Cut tiny paper wings or felt frog feet to glue underneath the cap edges."
+      },
+      {
+        "step_number": 3,
+        "heading": "Puppet Showtime",
+        "instruction": "Glue a ring of paper on the back of the cap to slip onto your finger, or tape an ice-cream stick handle for puppet theater play!",
+        "tip": "Put on a puppet show about nature and clean forests for your family!"
+      }
+    ],
+    "environmental_tip": "Small creative toys made from scrap show that endless fun doesn't need to be purchased from a factory.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-cb-01",
+    "title": "Eco Cardboard Marble Maze Labyrinth",
+    "description": "Build an intricate twisting tilt-maze from a shallow delivery box and cardboard walls for hours of puzzle play!",
+    "category": "Science",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "cardboard box",
+      "cardboard",
+      "cereal box",
+      "shoe box lid"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 35,
+    "eco_points": 20,
+    "requires_adult": false,
+    "safety_precautions": "Keep marbles away from toddlers. Cut cardboard strips with safe blunt-tip craft scissors.",
+    "materials": [
+      "1 shallow cardboard box or shoe box lid",
+      "Extra cardboard scraps or cereal box strips",
+      "1 marble or wooden bead",
+      "Craft glue or masking tape"
+    ],
+    "tools": [
+      "Pencil",
+      "Ruler",
+      "Scissors"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Sketch the Maze Route",
+        "instruction": "Lightly pencil a winding pathway inside the box bottom with a clear 'START' circle and an ultimate 'FINISH' goal pocket.",
+        "tip": "Include dead ends and secret shortcut alleys to make it a brain-teasing challenge!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Cut and Glue Wall Strips",
+        "instruction": "Cut cardboard strips 2cm high. Fold small bottom tabs on each strip, add glue, and press them firmly along your sketched maze lines.",
+        "tip": "Ensure paths are at least 3cm wide so your marble rolls freely without getting stuck!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Tilt and Test",
+        "instruction": "Place your marble at the Start. Hold the box with two hands and gently tilt it left, right, up, and down to steer the marble to the finish line!",
+        "tip": "Time yourself or challenge your siblings and friends to beat your fastest run!"
+      }
+    ],
+    "environmental_tip": "Cardboard makes up roughly 40% of home delivery packaging waste. Reusing boxes cuts down tree cutting and paper mill energy.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-cb-02",
+    "title": "Cardboard Tube Desk Organizer Caddy",
+    "description": "Combine toilet paper rolls and cereal box cardboard into a multi-tiered desktop caddy for pencils, scissors, and paintbrushes.",
+    "category": "Art",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "paper roll",
+      "toilet paper roll",
+      "cardboard roll",
+      "paper towel roll"
+    ],
+    "age_min": 6,
+    "age_max": 11,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": false,
+    "safety_precautions": "Use non-toxic washable paints and child craft glue.",
+    "materials": [
+      "4 to 6 empty paper rolls",
+      "1 sturdy flat cardboard base (15x15cm)",
+      "Colored paint or wrapping paper scraps"
+    ],
+    "tools": [
+      "Paintbrush",
+      "Glue stick or liquid PVA glue",
+      "Scissors"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Trim to Stepped Heights",
+        "instruction": "Keep one tube full height, cut a second tube to 3/4 height, and cut a third to 1/2 height. This creates a stair-step effect.",
+        "tip": "Shorter tubes are perfect for paperclips, erasers, and sharpeners!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Paint and Decorate",
+        "instruction": "Paint each tube in your favorite theme colors\u2014like forest green, sunshine yellow, and ocean blue. Let them dry for 10 minutes.",
+        "tip": "You can wrap leftover festive wrapping paper or comic strips around them too!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Cluster and Affix",
+        "instruction": "Arrange the tubes closely in a bundle on your cardboard base. Glue the tubes to one another and down onto the base plate.",
+        "tip": "Fill your organized caddy with your markers, pens, and crafting tools\u2014your desk is now tidy!"
+      }
+    ],
+    "environmental_tip": "Cardboard tubes are 100% biodegradable and recyclable. Repurposing them keeps home desks neat without buying plastic plastic organizers!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-cb-03",
+    "title": "Cardboard Castle Fortress",
+    "description": "Construct a medieval turreted castle equipped with drawbridges, battlements, and ramparts using delivery boxes.",
+    "category": "Toys",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "cardboard box",
+      "cardboard",
+      "carton"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Advanced",
+    "estimated_time_minutes": 45,
+    "eco_points": 25,
+    "requires_adult": true,
+    "safety_precautions": "Adult assistance is needed to cut notches and window openings into thicker corrugated cardboard.",
+    "materials": [
+      "1 medium cardboard box",
+      "4 paper towel tubes for corner turrets",
+      "String for drawbridge",
+      "Washable gray or stone-colored paint"
+    ],
+    "tools": [
+      "Ruler",
+      "Pencil",
+      "Hole punch",
+      "Safety scissors"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Cut Crenelations",
+        "instruction": "Draw square notches (crenelations) along the top edge of your box. With an adult's help, cut them out to create castle wall battlements.",
+        "tip": "Keep the cut-out squares\u2014they can be glued inside as steps for toy knights!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Attach Corner Towers",
+        "instruction": "Slit the bottom 3cm of your 4 cardboard tubes and slot them over the four corners of the box to form tall defense turrets.",
+        "tip": "Cut miniature arched windows into the tubes so archers can look out!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Install Working Drawbridge",
+        "instruction": "Cut an arched door leaving the bottom attached like a hinge. Punch two holes near the top, tie strings through, and pull from inside to raise the gate!",
+        "tip": "Paint stone-brick textures with a sponge and gray paint to complete the historical castle look!"
+      }
+    ],
+    "environmental_tip": "Heavy corrugated cardboard uses significant tree pulp. Re-using large boxes for imaginative architecture extends their lifecycle by years.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-np-01",
+    "title": "Recycled Newspaper Seed Pots",
+    "description": "Roll old newspaper sheets into biodegradable garden pots you can plant directly into the soil when your seedlings sprout!",
+    "category": "Gardening",
+    "primary_material": "paper",
+    "compatible_objects": [
+      "newspaper",
+      "newsprint",
+      "magazine",
+      "flyer"
+    ],
+    "age_min": 5,
+    "age_max": 10,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 15,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Use newspaper printed with soy-based or non-toxic ink (standard in most modern daily newspapers). Avoid glossy chemical magazines for soil pots.",
+    "materials": [
+      "Old newspaper pages",
+      "Small drinking glass or can as a mold",
+      "Potting soil",
+      "Garden seeds (sunflower, peas, or tomato)"
+    ],
+    "tools": [
+      "Hands only! No glue or tape needed"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Fold Paper Strips",
+        "instruction": "Fold a broadsheet of newspaper in half lengthwise to create a double-layered strip roughly 12cm wide.",
+        "tip": "Double-layering gives the pot strength to hold moist soil without tearing!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Roll Around Mold",
+        "instruction": "Wrap the paper strip around a small can or glass, leaving 4cm of paper sticking out beyond the bottom rim.",
+        "tip": "Fold the extra paper neatly inward across the base, like wrapping a parcel."
+      },
+      {
+        "step_number": 3,
+        "heading": "Lock and Fill",
+        "instruction": "Slide the glass out. Push the bottom inward with your thumb to lock the folds tight. Fill with soil and sow your seeds!",
+        "tip": "When planting outdoors, put the whole pot in the garden bed\u2014the paper breaks down into rich compost!"
+      }
+    ],
+    "environmental_tip": "1 ton of recycled newspaper saves 12 mature trees and over 26,000 liters of fresh water!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-np-02",
+    "title": "Twisted Newspaper Woven Basket",
+    "description": "Roll newspapers into sturdy paper reeds and weave them into a rustic bowl for holding fruit, keys, or crafting supplies.",
+    "category": "Art",
+    "primary_material": "paper",
+    "compatible_objects": [
+      "newspaper",
+      "paper",
+      "newsprint"
+    ],
+    "age_min": 8,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 40,
+    "eco_points": 20,
+    "requires_adult": false,
+    "safety_precautions": "Wash hands after rolling newspaper to remove harmless ink residue.",
+    "materials": [
+      "6 to 8 sheets of newspaper",
+      "White PVA craft glue",
+      "Thin wooden skewer (for tight rolling)",
+      "Water"
+    ],
+    "tools": [
+      "Safety scissors",
+      "Clothespeg / binder clips to hold weavers"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Roll Tight Paper Tubes",
+        "instruction": "Cut newspaper into long strips. Wrap tightly from one corner around a skewer to form long, stiff paper straws. Dab glue on the corner tip.",
+        "tip": "Roll at a 45-degree angle to make long, even reeds!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Form the Base Wheel",
+        "instruction": "Cross four tubes over four other tubes to form an 8-spoke star. Glue the center intersection securely flat.",
+        "tip": "Clamp the center with a clothespeg for 2 minutes while the glue bonds."
+      },
+      {
+        "step_number": 3,
+        "heading": "Weave In and Out",
+        "instruction": "Take a flexible tube and weave over and under the radiating spokes in a continuous spiral, adding new tubes by slotting them inside the ends.",
+        "tip": "Bend the spokes upward as you weave to form high bowl sides, then seal with a coat of craft glue!"
+      }
+    ],
+    "environmental_tip": "Newspaper recycling is one of the highest-yield circular economy workflows, saving energy compared to raw wood processing.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-np-03",
+    "title": "Recycled Papier-M\u00e2ch\u00e9 Globe",
+    "description": "Form a 3D Earth planet globe using a scrap balloon, torn newspaper strips, and simple non-toxic flour paste.",
+    "category": "Science",
+    "primary_material": "paper",
+    "compatible_objects": [
+      "newspaper",
+      "paper",
+      "scrap paper"
+    ],
+    "age_min": 6,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 45,
+    "eco_points": 20,
+    "requires_adult": true,
+    "safety_precautions": "Adult helps prepare warm flour-and-water paste. Put down newspaper on table to catch drips.",
+    "materials": [
+      "Old newspaper torn into 2x10cm strips",
+      "1 balloon",
+      "Flour and water paste (1 cup flour + 1 cup water)",
+      "Blue and green paint"
+    ],
+    "tools": [
+      "Mixing bowl",
+      "Paintbrushes",
+      "Sponge"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Inflate and Mix Paste",
+        "instruction": "Blow up a balloon into a round ball shape. Whisk together equal parts flour and water until smooth like pancake batter.",
+        "tip": "Tearing newspaper by hand produces soft fuzzy edges that blend together seamlessly!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Layer the Paper Strips",
+        "instruction": "Dip newspaper strips into paste, scrape off excess on the bowl edge, and smooth them across the balloon until fully covered with 3 layers.",
+        "tip": "Let it dry overnight on top of a plastic bowl until it becomes a light, rock-hard sphere."
+      },
+      {
+        "step_number": 3,
+        "heading": "Paint Continents & Oceans",
+        "instruction": "Pop and remove the inner balloon. Paint the entire sphere bright ocean blue, then sketch and dab green paint for Earth's continents!",
+        "tip": "Find where you live on your new globe and put a gold star on it!"
+      }
+    ],
+    "environmental_tip": "Natural flour paste is 100% biodegradable and contains zero petroleum plastic micro-resins.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pr-01",
+    "title": "Cardboard Tube Forest Animals",
+    "description": "Turn humble toilet paper rolls into a whole safari of foxes, owls, rabbits, and friendly lions!",
+    "category": "Animals",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "paper roll",
+      "toilet paper roll",
+      "cardboard tube"
+    ],
+    "age_min": 5,
+    "age_max": 9,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 20,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Use non-toxic washable markers and child-safe scissors.",
+    "materials": [
+      "Clean cardboard toilet paper rolls",
+      "Colored construction paper scraps",
+      "Googly eyes or marker pens",
+      "Glue stick"
+    ],
+    "tools": [
+      "Blunt-tip scissors",
+      "Colored pencils"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Push in Ear Curves",
+        "instruction": "For an owl or cat, push down the top curved edge of the tube with your thumb from the front and back to form two pointed ears!",
+        "tip": "No cutting needed\u2014the natural tube curve makes perfect ears automatically!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Color the Body Fur",
+        "instruction": "Color the tube orange for a fox, brown for an owl, or gray for a bunny. Glue on a white paper tummy patch.",
+        "tip": "You can draw feather patterns with repeating 'V' or 'U' shapes!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Attach Eyes and Nose",
+        "instruction": "Stick on two eyes, a triangle nose, and whiskers. Add paper wings or a bushy tail to the back.",
+        "tip": "Stand your forest friend up on your bookshelf to guard your reading books!"
+      }
+    ],
+    "environmental_tip": "An average person uses about 100 toilet rolls a year. Giving them characters and roles brings nature stories home!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pr-02",
+    "title": "Paper Roll Binoculars Explorer",
+    "description": "Tape two cardboard rolls together to create safari binoculars for spotting birds, clouds, and wildlife in your backyard!",
+    "category": "Science",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "paper roll",
+      "cardboard tube",
+      "toilet paper roll"
+    ],
+    "age_min": 5,
+    "age_max": 8,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 15,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Ensure neck cord is safety-sized and has an easy breakaway tie so it doesn't snag.",
+    "materials": [
+      "2 toilet paper rolls",
+      "Masking tape or colorful washi tape",
+      "Yarn neck strap (40cm)",
+      "Green or camouflage paint"
+    ],
+    "tools": [
+      "Hole punch",
+      "Paintbrush"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Join the Lenses",
+        "instruction": "Line up both cardboard tubes side-by-side. Wrap a band of tape around the front and back to lock them securely together.",
+        "tip": "Wrap decorative washi tape with animal or leaf prints for an expedition feel!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Paint Camouflage",
+        "instruction": "Paint spots of forest green, sandy brown, and leaf yellow over the binoculars so you can stay hidden while watching nature.",
+        "tip": "Dabbing with a crumpled paper towel makes authentic leafy camouflage patterns!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Attach Explorer Strap",
+        "instruction": "Punch a hole on the outside edge of each tube. Thread the yarn strap through and knot securely on both ends.",
+        "tip": "Head out to the garden or park and count how many different birds you can spot through your lenses!"
+      }
+    ],
+    "environmental_tip": "Kids who observe birds and backyard pollinators develop lifelong empathy for protecting ecosystems.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-gj-01",
+    "title": "Magical Glow Firefly Lantern",
+    "description": "Paint a clean glass jar with night-sky colors and slip in an LED tea light for a warm bedside night-light.",
+    "category": "Decorations",
+    "primary_material": "glass",
+    "compatible_objects": [
+      "glass jar",
+      "jam jar",
+      "mason jar",
+      "glass bottle"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": true,
+    "safety_precautions": "Glass must be handled carefully on a padded surface or tray. An adult must supervise. Never use real open-flame candles; only use safe battery LED tea lights.",
+    "materials": [
+      "1 thoroughly washed glass jar (jam or pasta jar)",
+      "Tissue paper scraps (yellow, purple, deep blue)",
+      "Decoupage glue or diluted white glue",
+      "1 battery-operated LED tea light"
+    ],
+    "tools": [
+      "Soft flat paintbrush"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Wash & Prep Jar",
+        "instruction": "Soak the jar in warm water with an adult to peel off the label cleanly. Dry thoroughly.",
+        "tip": "Rubbing a drop of cooking oil lifts any sticky label gum right off!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Decoupage Glowing Paper",
+        "instruction": "Brush glue over the outside of the glass. Smooth overlapping patches of translucent yellow and night-sky purple tissue paper over the glass.",
+        "tip": "Leave small silhouette gaps shaped like fireflies or crescent moons!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Light Up the Night",
+        "instruction": "Let the glue dry for 20 minutes until translucent. Drop in your battery LED tea light and turn down the room lights.",
+        "tip": "Watch the gentle ambient glow illuminate your room like a summer evening forest!"
+      }
+    ],
+    "environmental_tip": "Glass is 100% endlessly recyclable without any loss in purity or quality, but reusing jars at home saves 100% of smelting energy!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-gj-02",
+    "title": "Desktop Rainforest Terrarium",
+    "description": "Build a self-contained miniature living water cycle with moss, pebbles, and tiny plants inside a sealed glass jar.",
+    "category": "Science",
+    "primary_material": "glass",
+    "compatible_objects": [
+      "glass jar",
+      "mason jar",
+      "jam jar",
+      "pickle jar"
+    ],
+    "age_min": 8,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 30,
+    "eco_points": 20,
+    "requires_adult": true,
+    "safety_precautions": "Handle glass container with adult supervision. Work on a stable surface.",
+    "materials": [
+      "1 large clean glass jar with lid",
+      "Small gravel or clean pebbles (2 cups)",
+      "Activated charcoal (1 tablespoon - optional)",
+      "Potting soil (1 cup)",
+      "Small patch of outdoor moss or miniature fittonia fern",
+      "A decorative pebble or shell"
+    ],
+    "tools": [
+      "Large spoon",
+      "Spray mist bottle with water"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Create Drainage Layers",
+        "instruction": "Spoon 2cm of pebbles into the bottom of the jar for water drainage. Sprinkle a thin layer of charcoal on top to keep water fresh.",
+        "tip": "Pebbles stop plant roots from sitting in soggy water!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Add Soil and Moss",
+        "instruction": "Add 4cm of potting soil. Using your fingers or spoon handle, press a little hollow and tuck in your live moss or mini plant.",
+        "tip": "Place a pretty quartz pebble or sea shell next to the moss as a tiny fairy boulder!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Mist and Seal",
+        "instruction": "Spray 4 squirts of water mist onto the greenery. Screw the lid on snugly and place the jar in gentle indirect daylight.",
+        "tip": "Observe the glass each morning: water evaporates, condenses on the glass, and 'rains' back down on the moss in a closed cycle!"
+      }
+    ],
+    "environmental_tip": "A closed terrarium demonstrates Earth's water cycle in miniature: evaporation, condensation, and precipitation!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-tc-01",
+    "title": "Recycled Tin Can Wind Chimes",
+    "description": "Paint clean tin cans in cheerful hues and string them up on a branch to make breezy acoustic garden chimes.",
+    "category": "Decorations",
+    "primary_material": "metal",
+    "compatible_objects": [
+      "tin can",
+      "food can",
+      "aluminum can",
+      "soda can"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 35,
+    "eco_points": 20,
+    "requires_adult": true,
+    "safety_precautions": "Adult supervision required to punch a hanging hole in the base. Check that rims are smooth or apply a border of masking tape to ensure no sharp edges.",
+    "materials": [
+      "3 to 4 clean metal food cans of different sizes",
+      "Weather-resistant outdoor paint",
+      "Sturdy twine or hemp string",
+      "Large wooden beads or metal washers",
+      "A 30cm fallen tree branch"
+    ],
+    "tools": [
+      "Hammer and small nail (adult use only for holes)",
+      "Paintbrushes",
+      "Scissors"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "De-rim and Hole Punch",
+        "instruction": "Ensure all can rims are blunt and smooth. An adult uses a hammer and nail to tap one small hole in the center bottom of each inverted can.",
+        "tip": "Filling cans with water and freezing them solid beforehand prevents the metal from denting when tapped!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Paint Bright Patterns",
+        "instruction": "Paint each can with rainbow stripes, dots, or sunbursts. Allow the paint to dry in the sun for 20 minutes.",
+        "tip": "Bright contrasting colors will shimmer nicely when the wind rotates the cans!"
+      },
+      {
+        "step_number": 3,
+        "heading": "String and Hang",
+        "instruction": "Thread twine through each can hole, knotting a metal washer or bead inside to act as a bell clapper. Tie each can to your garden branch at varying heights.",
+        "tip": "Hang your chime under an awning or tree branch and listen to the gentle melody when breezes blow!"
+      }
+    ],
+    "environmental_tip": "Recycling aluminum and steel saves up to 95% of the energy needed to mine and smelt raw bauxite ore!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-tc-02",
+    "title": "Rustic Tin Can Herb Planters",
+    "description": "Upcycle soup and bean cans into colorful kitchen windowsill herb pots for fragrant mint, parsley, and chives.",
+    "category": "Gardening",
+    "primary_material": "metal",
+    "compatible_objects": [
+      "tin can",
+      "canned food",
+      "metal can"
+    ],
+    "age_min": 6,
+    "age_max": 11,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": true,
+    "safety_precautions": "Adult punches drainage holes in the bottom. Smooth rim with tape if not rolled.",
+    "materials": [
+      "2 or 3 clean food tin cans",
+      "Potting compost",
+      "Herb seeds or cuttings (mint, basil, coriander)",
+      "Acrylic paints or waterproof stickers"
+    ],
+    "tools": [
+      "Small hammer and nail (adult use)",
+      "Pencil",
+      "Paintbrushes"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Punch Drainage Holes",
+        "instruction": "An adult taps 3 small nail holes into the bottom of each can so excess plant water can escape easily.",
+        "tip": "Good drainage keeps plant roots breathing and healthy!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Design Your Labels",
+        "instruction": "Paint the cans. Write chalkboard-style labels like 'MINT', 'BASIL', or 'PARSLEY' using white marker or chalk paint.",
+        "tip": "You can wrap natural jute twine around the bottom third for a cozy rustic look!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Plant and Harvest",
+        "instruction": "Place a few pebbles over the bottom holes, fill with potting soil, and sow your herb seeds. Water lightly with a spoon.",
+        "tip": "Put the pots on a saucer by a bright kitchen window and enjoy fresh herbs on your family meals!"
+      }
+    ],
+    "environmental_tip": "Growing your own herbs reduces plastic packaging from store-bought cellophane herb pouches.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-fb-01",
+    "title": "No-Sew T-Shirt Tote Bag",
+    "description": "Transform an outgrown cotton T-shirt into a durable, washable shopping and beach tote with zero sewing required!",
+    "category": "Art",
+    "primary_material": "fabric",
+    "compatible_objects": [
+      "old t-shirt",
+      "shirt",
+      "cotton shirt",
+      "fabric",
+      "cloth"
+    ],
+    "age_min": 6,
+    "age_max": 12,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": false,
+    "safety_precautions": "Use fabric safety scissors. No sewing needles or hot machines needed.",
+    "materials": [
+      "1 old cotton T-shirt (graphic shirts look great!)"
+    ],
+    "tools": [
+      "Sharp fabric scissors",
+      "Ruler",
+      "Pencil or chalk"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Cut Sleeves and Neckline",
+        "instruction": "Lay the T-shirt flat. Cut off both sleeves along the shoulder seams to create handles. Cut around the neckline to make a wide bag opening.",
+        "tip": "Cut evenly along both layers at the same time so handles match!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Snip Bottom Fringe",
+        "instruction": "Cut vertical slits roughly 2cm wide and 8cm high along the entire bottom hem through both the front and back fabric layers.",
+        "tip": "You will have matching pairs of fringe strips hanging across the bottom."
+      },
+      {
+        "step_number": 3,
+        "heading": "Double-Knot the Bottom",
+        "instruction": "Take each matching front-and-back pair of fringe strips and tie them together in a tight double-knot across the whole base.",
+        "tip": "Turn the bag inside-out if you prefer a hidden fringe, or keep fringe outside for a trendy boho look! Your reusable shopping bag is ready!"
+      }
+    ],
+    "environmental_tip": "Manufacturing one single cotton T-shirt takes roughly 2,700 liters of water. Reusing clothes saves immense water resources!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-fb-02",
+    "title": "Braided Cotton Dog Tug-Toy",
+    "description": "Braid strips of old cotton shirts or scrap denim into an ultra-tough rope toy for family pups or animal shelters!",
+    "category": "Toys",
+    "primary_material": "fabric",
+    "compatible_objects": [
+      "fabric",
+      "cloth",
+      "old t-shirt",
+      "rag",
+      "textile"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 20,
+    "eco_points": 15,
+    "requires_adult": false,
+    "safety_precautions": "Ensure fabric strips are 100% natural cotton without buttons, zips, or synthetic plastic beads.",
+    "materials": [
+      "Old cotton shirts or jersey fabric scraps in 2-3 colors"
+    ],
+    "tools": [
+      "Fabric scissors",
+      "Safety pin or tape to hold ends"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Cut Long Ribbons",
+        "instruction": "Cut 6 to 9 long strips of fabric roughly 5cm wide and 60cm long. Bundle them together and tie a big tight knot at one end.",
+        "tip": "Pull the fabric strips taut\u2014cotton jersey naturally curls into smooth soft cords!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Braid Tightly",
+        "instruction": "Separate the strips into 3 equal bunches. Braid them firmly over-and-under just like braiding hair, pulling snug at every step.",
+        "tip": "Tape the knotted top to a table edge to keep it steady while braiding!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Finish with Ball Knot",
+        "instruction": "When 10cm remains at the bottom, tie another hefty, tight knot to lock the braid. Trim the loose tassel ends neatly.",
+        "tip": "Test it out with your dog or donate a bundle to your local animal rescue center!"
+      }
+    ],
+    "environmental_tip": "Textile waste accounts for millions of tons of landfill trash every year. Upcycling clothes extends textile life effortlessly.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pc-01",
+    "title": "Paper Cup Chirping Frog Toy",
+    "description": "Craft an acoustic frog from an unused paper cup that actually ribbits when you slide a damp sponge down a string!",
+    "category": "Science",
+    "primary_material": "paper",
+    "compatible_objects": [
+      "paper cup",
+      "coffee cup",
+      "paper",
+      "cup"
+    ],
+    "age_min": 5,
+    "age_max": 10,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 15,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Punch hole in cup bottom using a dull pencil on a soft surface with care.",
+    "materials": [
+      "1 paper cup",
+      "Cotton string (40cm)",
+      "Small square of kitchen sponge (3x3cm)",
+      "Paper clip",
+      "Water"
+    ],
+    "tools": [
+      "Pencil",
+      "Green paint or markers"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Decorate the Frog",
+        "instruction": "Paint the outside of the paper cup bright frog green. Draw two big round eyes near the top rim.",
+        "tip": "Add small red tongue or yellow frog speckles for extra personality!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Thread the String",
+        "instruction": "Poke a tiny hole in the exact center of the cup's bottom using a pencil tip. Thread string through and tie it to a paper clip so it cannot pull through.",
+        "tip": "The paper clip acts as an anchor inside the bottom of the cup."
+      },
+      {
+        "step_number": 3,
+        "heading": "Attach Sponge & Ribbit",
+        "instruction": "Tie the damp sponge square to the other end of the string. Squeeze the sponge around the string and pull down in short jerks\u2014it will croak like a real bullfrog!",
+        "tip": "The cup acts as an acoustic sound amplifier for the friction vibrations along the string!"
+      }
+    ],
+    "environmental_tip": "Single-use cups with plastic linings take decades to disintegrate. Creating memorable acoustic toys brings science to life without electronics.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pc-02",
+    "title": "Paper Cup Solar Windmill",
+    "description": "Construct a rotating tabletop wind turbine with paper cups and a drinking straw to demonstrate renewable energy!",
+    "category": "Science",
+    "primary_material": "paper",
+    "compatible_objects": [
+      "paper cup",
+      "disposable cup"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": false,
+    "safety_precautions": "Take care when pressing a pushpin through the straw pivot.",
+    "materials": [
+      "2 paper cups",
+      "1 paper drinking straw",
+      "1 pushpin with plastic head",
+      "1 pencil with an eraser top"
+    ],
+    "tools": [
+      "Child scissors",
+      "Ruler"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Build the Tower Base",
+        "instruction": "Turn one cup upside-down. Push the eraser-tipped pencil straight down through the center bottom to stand firmly upright as the windmill tower.",
+        "tip": "Put a little clay or pebble inside the base cup to keep it steady in breezes!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Cut Curved Rotor Blades",
+        "instruction": "Cut the second paper cup into 4 curved quadrant scoops. Glue two opposing scoops to opposite ends of your paper straw.",
+        "tip": "Make sure both cups scoop the air in the same turning direction!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Pin the Hub",
+        "instruction": "Push your pushpin through the exact midpoint of the straw and into the pencil's top eraser, leaving 1mm play for free rotation.",
+        "tip": "Blow gently on the cups or set in front of a small fan\u2014your renewable turbine spins at high speed!"
+      }
+    ],
+    "environmental_tip": "Wind power produces zero greenhouse emissions. Understanding clean turbines inspires the engineers of tomorrow!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-wd-01",
+    "title": "Popsicle Stick Wildlife Picture Frame",
+    "description": "Arrange clean wooden craft sticks or popsicle sticks into a geometric picture frame decorated with dried leaves and twigs.",
+    "category": "Art",
+    "primary_material": "wood",
+    "compatible_objects": [
+      "wooden sticks",
+      "popsicle sticks",
+      "wood scrap",
+      "twigs"
+    ],
+    "age_min": 5,
+    "age_max": 10,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 20,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Ensure sticks are splinter-free. Use water-based wood or craft glue.",
+    "materials": [
+      "8 to 12 wooden sticks",
+      "Craft glue",
+      "A photo or drawing of your favorite animal",
+      "Dried pressed flowers or twigs"
+    ],
+    "tools": [
+      "Paintbrushes",
+      "Watercolors"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Lay Out the Square",
+        "instruction": "Lay two sticks parallel horizontally, then glue two sticks vertically across the ends to form a solid square frame.",
+        "tip": "Glue a second layer of sticks directly on top for extra depth and sturdiness!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Paint and Embellish",
+        "instruction": "Paint the sticks with earthy greens and autumn tones. Glue tiny dried leaves or smooth pebbles at the corners.",
+        "tip": "Write your name and the date along the bottom edge!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Mount Your Picture",
+        "instruction": "Glue your favorite animal drawing or family photo to the back of the frame, and add a string loop to hang.",
+        "tip": "Hang it proudly in your bedroom or give it as a handmade eco gift to grandparents!"
+      }
+    ],
+    "environmental_tip": "Wood is a natural renewable material. Reusing ice cream and stirring sticks reduces commercial plastic frames.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-wd-02",
+    "title": "Mini Wooden Scrap Bird Feeder",
+    "description": "Build a hanging bird snack platform from wooden sticks and natural hemp cord to welcome songbirds to your garden.",
+    "category": "Animals",
+    "primary_material": "wood",
+    "compatible_objects": [
+      "wooden sticks",
+      "wood scrap",
+      "twigs"
+    ],
+    "age_min": 6,
+    "age_max": 12,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": false,
+    "safety_precautions": "Ensure bird seeds are safe for wild birds. Keep feeders out of reach of house cats.",
+    "materials": [
+      "20 to 24 wooden craft sticks",
+      "Non-toxic outdoor wood glue",
+      "Natural twine (1 meter)",
+      "Wild bird seed mix"
+    ],
+    "tools": [
+      "Ruler"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Create Solid Raft Floor",
+        "instruction": "Line up 12 sticks side-by-side. Glue two cross-sticks across the top to bond them into a flat wooden raft floor.",
+        "tip": "Press with a heavy book for 5 minutes so the floor dries perfectly flat!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Build Retaining Rails",
+        "instruction": "Glue sticks around the perimeter in a log-cabin style, two by two, building up side walls 3 layers high.",
+        "tip": "The raised walls prevent bird seeds from blowing away in windy weather!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Tie Suspension Twine",
+        "instruction": "Loop twine under the bottom four corners and knot together 30cm above the feeder. Hang from a high tree branch and fill with seeds!",
+        "tip": "Keep a bird journal near your window to record sparrows, finches, and robins visiting your feeder!"
+      }
+    ],
+    "environmental_tip": "Feeding local birds during change of seasons supports urban biodiversity and connects kids with native wildlife.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pb-04",
+    "title": "Plastic Bottle Bowling Alley",
+    "description": "Upcycle 6 equal-sized plastic bottles into colorful animal bowling pins with a soft tennis ball for indoor rainy day games!",
+    "category": "Toys",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "plastic bottle",
+      "water bottle",
+      "juice bottle"
+    ],
+    "age_min": 5,
+    "age_max": 10,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": false,
+    "safety_precautions": "Screw caps tightly to secure ballast inside. Ensure play area has no fragile breakable objects nearby.",
+    "materials": [
+      "6 identical clean plastic bottles with caps",
+      "Dry sand or gravel (1/2 cup per bottle)",
+      "Food coloring or tempera paint",
+      "Tennis ball"
+    ],
+    "tools": [
+      "Funnel",
+      "Water"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Add Ballast Weight",
+        "instruction": "Pour 1/2 cup of sand, pebbles, or water mixed with food coloring into each bottle so they stand securely without toppling over.",
+        "tip": "Each bottle can be a different rainbow hue\u2014red, orange, yellow, green, blue, purple!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Number the Pins",
+        "instruction": "Paint large numbers 1 through 6 on the front of each bottle. Add funny monster faces or penguin bellies!",
+        "tip": "Tightly screw the bottle caps back on so no ballast spills out."
+      },
+      {
+        "step_number": 3,
+        "heading": "Strike and Score!",
+        "instruction": "Set up your pins in a triangle formation (3 back, 2 middle, 1 front). Step back 3 meters and roll the ball to knock them down!",
+        "tip": "Practice your mental math by adding up the numbers of all the pins knocked over!"
+      }
+    ],
+    "environmental_tip": "Active homemade games promote healthy indoor play while turning single-use drink containers into durable family games.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-cb-04",
+    "title": "Upcycled Cardboard Shadow Puppet Theater",
+    "description": "Transform an old cereal box into an illuminated shadow theater with silhouette story puppets!",
+    "category": "Art",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "cardboard box",
+      "cereal box",
+      "carton"
+    ],
+    "age_min": 6,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 30,
+    "eco_points": 20,
+    "requires_adult": true,
+    "safety_precautions": "Adult assistance needed to cut the window in the front of the cereal box.",
+    "materials": [
+      "1 empty cereal box",
+      "1 sheet of white parchment / baking paper",
+      "Wooden skewers or stirring sticks",
+      "Black construction paper scraps",
+      "Desk lamp or smartphone flashlight"
+    ],
+    "tools": [
+      "Safety scissors",
+      "Masking tape",
+      "Pencil"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Cut Theater Proscenium",
+        "instruction": "Cut out a large rectangular window in the front face of the cereal box, leaving a 3cm frame around the perimeter.",
+        "tip": "Decorate the top frame like ornate red stage curtains!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Mount Translucent Screen",
+        "instruction": "Tape a sheet of white baking parchment over the inside of the window opening. Cut open the back of the box so light can shine through.",
+        "tip": "Baking parchment diffuses flashlight rays evenly for crisp, dramatic shadows."
+      },
+      {
+        "step_number": 3,
+        "heading": "Cut Puppets & Perform",
+        "instruction": "Draw dragons, trees, and hero silhouettes on black paper, cut them out, and tape to wooden skewer handles. Shine a flashlight from behind and perform!",
+        "tip": "Hold puppets closer to the paper screen to make sharp shadows, or pull back to make giant blurred monsters!"
+      }
+    ],
+    "environmental_tip": "Shadow theater storytelling has been practiced for over 2,000 years with natural materials and requires zero screens or electronics.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pb-05",
+    "title": "Plastic Bottle Hanging Bird Feeder",
+    "description": "Craft an automatic refill bird feeder from a bottle and two wooden spoons that feed backyard songbirds continuously.",
+    "category": "Animals",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "plastic bottle",
+      "soda bottle",
+      "juice bottle"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 25,
+    "eco_points": 20,
+    "requires_adult": true,
+    "safety_precautions": "Adult help required to cut small incisions for the wooden spoons through the plastic sides.",
+    "materials": [
+      "1 plastic bottle with cap",
+      "2 old wooden cooking spoons or chopsticks",
+      "Wild bird seeds",
+      "Strong twine for hanging",
+      "Small screw eye or eyelet hook"
+    ],
+    "tools": [
+      "Scissors or craft knife (adult)",
+      "Funnel"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Cut Cross-Perches",
+        "instruction": "With an adult's help, cut two small matching holes on opposite sides of the bottle 5cm from the base. Push a wooden spoon right through.",
+        "tip": "The spoon bowl catches spilled seeds and acts as a comfortable perch for finches and titmice!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Enlarge Seed Notch",
+        "instruction": "Slightly widen the hole right above the spoon bowl so seeds trickle out by gravity as birds eat, stopping on their own when the bowl is full.",
+        "tip": "Add a second spoon at a right angle higher up for more birds!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Fill and Suspend",
+        "instruction": "Use a funnel to pour bird seeds into the top until full. Screw the cap tight, tie twine securely around the neck, and hang from a leafy tree.",
+        "tip": "Keep bird seed dry by hanging under tree canopy shelters."
+      }
+    ],
+    "environmental_tip": "Urban wild birds help control garden pests and pollinate flowers. Providing clean food stations protects songbird populations.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-cb-05",
+    "title": "Cardboard Space Rover Explorer",
+    "description": "Build a multi-wheeled Mars exploration rover equipped with communication antennae and solar panels from small boxes.",
+    "category": "Science",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "cardboard box",
+      "cardboard",
+      "bottle cap"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 35,
+    "eco_points": 20,
+    "requires_adult": false,
+    "safety_precautions": "Use non-toxic glue and safe craft scissors.",
+    "materials": [
+      "1 small rectangular box (tea box or tissue box)",
+      "4 to 6 plastic bottle caps for rugged wheels",
+      "2 wooden drinking straws or skewers for axles",
+      "Aluminum foil scraps",
+      "Pipe cleaner for antenna"
+    ],
+    "tools": [
+      "Safety scissors",
+      "School craft glue",
+      "Pencil"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Prepare the Chassis",
+        "instruction": "Wrap your rectangular box in silver aluminum foil to look like a NASA interplanetary rover with reflective thermal foil.",
+        "tip": "Smoothing the foil with the back of a spoon gives it a polished aerospace shine!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Mount the Axles & Caps",
+        "instruction": "Glue two drinking straws across the underbelly of the box. Slip skewers through and glue bottle caps to each axle end.",
+        "tip": "Make sure the wheel caps don't rub against the body so the rover glides smoothly!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Install Sensor Mast",
+        "instruction": "Poke a coiled pipe cleaner into the roof for the deep space antenna, and glue two small blue cardboard squares on top for solar power arrays.",
+        "tip": "Drive your rover over couch-cushion 'Martian craters' on scientific exploration missions!"
+      }
+    ],
+    "environmental_tip": "Every Mars rover is designed for ultimate reuse and zero waste\u2014an inspiring philosophy for kids on planet Earth!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-fb-03",
+    "title": "Lavender Scented Scrap Sachet",
+    "description": "Make fragrant aromatherapy drawer sachets from scrap cotton or linen filled with dried lavender or calming chamomile flowers.",
+    "category": "Decorations",
+    "primary_material": "fabric",
+    "compatible_objects": [
+      "fabric",
+      "cloth",
+      "textile",
+      "cotton",
+      "linen"
+    ],
+    "age_min": 5,
+    "age_max": 10,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 15,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Ensure dried herbs are non-toxic and children have no known flower pollen allergies.",
+    "materials": [
+      "Scraps of pretty cotton cloth (15x15cm square)",
+      "Dried lavender buds or garden rosemary",
+      "Satin ribbon or cotton twine (25cm)"
+    ],
+    "tools": [
+      "Pinking shears or safety scissors",
+      "Tablespoon"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Lay Out the Pouch",
+        "instruction": "Place your cloth square flat on the table with the patterned side facing down.",
+        "tip": "If using pinking shears (zigzag scissors), the fabric won't fray around the edges!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Spoon Fragrant Herbs",
+        "instruction": "Place 2 generous tablespoons of fragrant dried lavender or rosemary right in the center of the square.",
+        "tip": "Gently crush the lavender flowers between your fingers first to release the essential perfume oils!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Bundle and Tie",
+        "instruction": "Gather the four corners of the cloth upward into a pouch and tie the ribbon firmly around the neck with a pretty bow.",
+        "tip": "Tuck the sachet into your sock drawer, wardrobe, or under your pillow for sweet, relaxing dreams!"
+      }
+    ],
+    "environmental_tip": "Natural lavender repels clothing moths naturally without requiring harmful synthetic pesticide mothballs.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-wd-03",
+    "title": "Garden Plant ID Markers",
+    "description": "Paint fallen twigs or scrap wood into rustic botanical markers to label tomatoes, carrots, and strawberries in your vegetable patch.",
+    "category": "Gardening",
+    "primary_material": "wood",
+    "compatible_objects": [
+      "wooden sticks",
+      "twigs",
+      "wood scrap"
+    ],
+    "age_min": 5,
+    "age_max": 9,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 20,
+    "eco_points": 10,
+    "requires_adult": false,
+    "safety_precautions": "Gather twigs from ground, do not snap live branches from living trees.",
+    "materials": [
+      "Clean flat wooden craft sticks or smooth dried fallen garden twigs",
+      "Waterproof acrylic paint or sharp permanent markers",
+      "Outdoor clear varnish or PVA seal"
+    ],
+    "tools": [
+      "Paintbrushes"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Smooth the Surface",
+        "instruction": "Choose sticks with a smooth flat area for writing plant names clearly.",
+        "tip": "A light rub with fine sandpaper makes drawing letters crisp and effortless."
+      },
+      {
+        "step_number": 2,
+        "heading": "Write and Paint Crops",
+        "instruction": "Write the crop name in bold letters: 'TOMATO', 'CARROT', 'BASIL', 'STRAWBERRY'. Paint a tiny cute illustration of the vegetable alongside.",
+        "tip": "Bright white lettering stands out beautifully against natural wooden bark!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Seal and Plant in Ground",
+        "instruction": "Brush on a thin coat of clear glue or outdoor sealer to protect against garden rain. Push the pointed end firmly into the soil next to your plants.",
+        "tip": "Now everyone in the family knows what tasty vegetables are growing where!"
+      }
+    ],
+    "environmental_tip": "Using fallen garden wood replaces single-use plastic plant tags commonly thrown away after one growing season.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-tc-03",
+    "title": "Tin Can Pen and Brush Holder",
+    "description": "Wrap clean soup tins in natural rustic rope or colorful yarn to create an artist brush pot for your creative studio.",
+    "category": "Art",
+    "primary_material": "metal",
+    "compatible_objects": [
+      "tin can",
+      "food can",
+      "metal can"
+    ],
+    "age_min": 6,
+    "age_max": 11,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 20,
+    "eco_points": 15,
+    "requires_adult": false,
+    "safety_precautions": "Ensure the rim has no burrs. Tape the upper inside lip with clear tape as a safety guard.",
+    "materials": [
+      "1 clean empty tin can",
+      "Jute twine, yarn, or colorful embroidery thread",
+      "School tacky glue"
+    ],
+    "tools": [
+      "Safety scissors",
+      "Ruler"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Safety Rim Tape",
+        "instruction": "Inspect the inner can rim. Fold a strip of clear tape or masking tape over the top rim to ensure 100% smooth, soft edges.",
+        "tip": "Safety first keeps crafting relaxed and joyful!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Spiral the Twine",
+        "instruction": "Apply glue in 2cm bands around the can. Wrap twine tightly in a continuous spiral starting from the base all the way to the top.",
+        "tip": "Change yarn colors every 10 wraps to make vibrant bohemian rainbow stripes!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Dry and Organize",
+        "instruction": "Tuck and glue the end securely at the top. Let dry for 10 minutes, then fill with your paintbrushes, markers, or rulers.",
+        "tip": "The heavy metal base prevents tall brushes from tipping over on your desk!"
+      }
+    ],
+    "environmental_tip": "Canned steel has infinite recyclable life, and reusing it at home avoids energy-intensive scrap processing.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-gj-03",
+    "title": "Ocean Wave Calming Sensory Bottle",
+    "description": "Combine water, oil, blue food dye, and recycled glitter inside a glass or plastic jar to mimic rolling ocean waves.",
+    "category": "Science",
+    "primary_material": "glass",
+    "compatible_objects": [
+      "glass jar",
+      "jam jar",
+      "mason jar",
+      "clear bottle"
+    ],
+    "age_min": 5,
+    "age_max": 11,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 15,
+    "eco_points": 10,
+    "requires_adult": true,
+    "safety_precautions": "Adult glues lid closed with waterproof glue so it cannot be unscrewed accidentally.",
+    "materials": [
+      "1 clear glass jar with tight lid",
+      "Water (fill 2/3)",
+      "Baby oil or vegetable cooking oil (fill 1/3)",
+      "Blue food coloring (2 drops)",
+      "Tiny biodegradable sequins or small clean seashells"
+    ],
+    "tools": [
+      "Glue to seal lid",
+      "Funnel"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Color the Ocean Water",
+        "instruction": "Fill the jar two-thirds full with clean room-temperature water. Add 2 drops of blue food coloring and gently swirl until ocean aqua blue.",
+        "tip": "Drop in a few tiny beach seashells or biodegrable sparkles that drift like ocean sea life!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Add the Oil Layer",
+        "instruction": "Top up the remaining jar space with baby oil or clear cooking oil using a funnel. Watch the oil instantly float atop the water!",
+        "tip": "Oil and water molecules cannot mix because water is polar and oil is non-polar\u2014science in action!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Seal and Roll Waves",
+        "instruction": "With an adult, glue the rim and screw the lid on tight. Turn the jar horizontally and tilt gently from side to side to watch soothing rhythmic rolling waves!",
+        "tip": "Taking slow deep breaths while watching the ocean waves roll is wonderful for relaxing after a busy school day."
+      }
+    ],
+    "environmental_tip": "Ocean currents regulate Earth's climate and produce over 50% of our planet's breathable oxygen!",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pb-06",
+    "title": "Plastic Bottle Hanging Bird Mobile",
+    "description": "Cut spiral swirls from a colorful shampoo or soda bottle to make an outdoor kinetic wind spinner that twirls in the breeze.",
+    "category": "Decorations",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "plastic bottle",
+      "soda bottle",
+      "shampoo bottle"
+    ],
+    "age_min": 8,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": true,
+    "safety_precautions": "Adult help required to start spiral cuts through plastic walls.",
+    "materials": [
+      "1 colorful clean plastic bottle",
+      "Outdoor fishing line or nylon thread",
+      "1 swivel clip or metal ring",
+      "Shiny foil stickers"
+    ],
+    "tools": [
+      "Permanent marker",
+      "Safety scissors (adult assist)"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Draw the Spiral Path",
+        "instruction": "Draw a smooth continuous spiral line from the top shoulder of the bottle down to the base like a barber shop pole.",
+        "tip": "Keep the line spaced about 2.5cm apart for a springy, bouncy coil."
+      },
+      {
+        "step_number": 2,
+        "heading": "Cut Along the Spiral",
+        "instruction": "With an adult's help, cut carefully along your marker line. Cut away the hard bottom base so the plastic pulls out into a long bouncy spiral ribbon.",
+        "tip": "Smooth any pointed corners with scissors."
+      },
+      {
+        "step_number": 3,
+        "heading": "Attach Swivel and Hang",
+        "instruction": "Tie nylon thread to the bottle mouth and attach a fishing swivel so it can spin freely 360 degrees without tangling.",
+        "tip": "Hang it from a porch or balcony: even gentle breezes will set it whirling like a kinetic tornado!"
+      }
+    ],
+    "environmental_tip": "Upcycling colored high-density plastic keeps durable polymers from breaking into microplastic ocean debris.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pr-03",
+    "title": "Paper Roll Medieval Castle Towers",
+    "description": "Combine four toilet paper tubes with cone-shaped roofs to create magical fairy tale turrets for tabletop fantasy games.",
+    "category": "Toys",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "paper roll",
+      "toilet paper roll",
+      "cardboard tube"
+    ],
+    "age_min": 6,
+    "age_max": 11,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 25,
+    "eco_points": 15,
+    "requires_adult": false,
+    "safety_precautions": "Use non-toxic glue and child-safe scissors.",
+    "materials": [
+      "3 to 4 paper rolls",
+      "Colored paper circles (for pointy cone roofs)",
+      "Markers or watercolors",
+      "Glue stick"
+    ],
+    "tools": [
+      "Safety scissors"
+    ],
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Draw Stone Walls",
+        "instruction": "Draw brick patterns, ivy vines, and wooden arched doors along the sides of each cardboard tube.",
+        "tip": "Draw a friendly dragon or princess waving from an upper window!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Fold Cone Roofs",
+        "instruction": "Cut a slit to the center of a paper circle, overlap the edges, and glue to form a conical witch-hat roof.",
+        "tip": "Use bright red, royal purple, or sunny gold paper for the roofs!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Assemble the Turret",
+        "instruction": "Run a ring of glue stick along the top rim of your tube and press the cone roof on snugly.",
+        "tip": "Add a paper pennant flag on a toothpick to flutter from the rooftop peak!"
+      }
+    ],
+    "environmental_tip": "Cardboard decomposes harmlessly in under 2 months in compost heaps, unlike plastic toy bricks that last hundreds of years.",
+    "is_rare": false
+  },
+  {
+    "id": "craft-pc-03",
+    "title": "Waterproof Soap & Sponge Bubble Dock",
+    "description": "A genius zero-mold invention! The camera lens cutout provides natural drainage for craft sponges and bathroom soaps.",
+    "category": "Science",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "phone case",
+      "phone cover",
+      "silicone case",
+      "gadget case"
+    ],
+    "age_min": 5,
+    "age_max": 12,
+    "difficulty": "Easy",
+    "estimated_time_minutes": 15,
+    "eco_points": 15,
+    "requires_adult": false,
+    "is_rare": true,
+    "safety_precautions": "Ask an adult to assist if using strong waterproof craft glue.",
+    "materials": [
+      "1 clean plastic or silicone phone case",
+      "4 plastic bottle caps or rubber bumpers",
+      "Craft sponge or soap bar",
+      "Waterproof craft glue or blue tack"
+    ],
+    "tools": [
+      "Cloth for drying"
+    ],
+    "environmental_tip": "Keeps sponges ventilated so they dry twice as fast, reducing bacteria without any plastic waste!",
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Elevate the Base",
+        "instruction": "Turn the case face-down. Glue 4 bottle caps or rubber feet beneath each of the four outer corners to elevate the dock 1cm above the sink.",
+        "tip": "Elevation allows airflow underneath so moisture evaporates rapidly."
+      },
+      {
+        "step_number": 2,
+        "heading": "Position by Sink",
+        "instruction": "Place the dock on your bathroom counter or art washbasin with the camera cutout angled slightly toward the sink bowl.",
+        "tip": "Any dripping soapy bubbles flow directly through the camera hole into the drain!"
+      },
+      {
+        "step_number": 3,
+        "heading": "Rest & Dry",
+        "instruction": "Rest your painting sponges or soap bar directly onto the cradle. The raised bumper keeps items from sliding off.",
+        "tip": "Add colorful waterproof stickers to customize your personal bathroom dock."
+      }
+    ]
+  },
+  {
+    "id": "craft-pc-04",
+    "title": "Acoustic Phone Megaphone Speaker",
+    "description": "Harness acoustic resonance! Combine a phone case with two paper cups to amplify sound waves 3x louder with zero electricity.",
+    "category": "Science",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "phone case",
+      "phone cover",
+      "paper cup",
+      "plastic cover"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 25,
+    "eco_points": 25,
+    "requires_adult": true,
+    "is_rare": true,
+    "safety_precautions": "Adult assistance required to carefully cut the slits into paper cups.",
+    "materials": [
+      "1 phone case",
+      "2 paper or plastic drinking cups",
+      "Masking tape",
+      "Color markers"
+    ],
+    "tools": [
+      "Safety scissors (adult assistance for cutting)",
+      "Pencil"
+    ],
+    "environmental_tip": "Passive acoustics use physics instead of battery electricity, saving energy while having fun with sound waves!",
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Trace Speaker Slits",
+        "instruction": "Place the bottom edge of the phone case against the side of each paper cup and trace the width with a pencil.",
+        "tip": "Make the slot snug so sound waves cannot escape from the sides!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Cut and Insert",
+        "instruction": "With an adult helper, carefully cut the marked slot in both cups. Slide the phone case into the cups so the bottom speaker ports aim into the cup interiors.",
+        "tip": "Seal any loose gaps with paper tape for maximum acoustic resonance."
+      },
+      {
+        "step_number": 3,
+        "heading": "Play the Resonance",
+        "instruction": "Insert your phone into the case and play music or an audio story. The cone shape of the cups redirects and magnifies the sound waves into a dual-channel stereo megaphone!",
+        "tip": "Decorate the cups like gramophone horns with gold paint or spiral patterns!"
+      }
+    ]
+  },
+  {
+    "id": "craft-rare-01",
+    "title": "Hydroponic Hanging Wall Garden",
+    "description": "A rare soil-free botanical invention! Create a gravity-fed hanging water garden that circulates nutrients down through recycled bottles.",
+    "category": "Gardening",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "plastic bottle",
+      "water bottle",
+      "soda bottle",
+      "pop bottle"
+    ],
+    "age_min": 8,
+    "age_max": 12,
+    "difficulty": "Advanced",
+    "estimated_time_minutes": 35,
+    "eco_points": 30,
+    "requires_adult": true,
+    "is_rare": true,
+    "safety_precautions": "Adult assistance required to cut bottle sections and punch drainage holes in caps.",
+    "materials": [
+      "3 clean 1L or 2L plastic bottles",
+      "Twine or nylon cord (2 meters)",
+      "Clay expansion pebbles or perlite",
+      "Herb cuttings (mint, basil, or watercress)",
+      "Water with liquid plant food"
+    ],
+    "tools": [
+      "Safety scissors (adult help)",
+      "Hole puncher or push pin"
+    ],
+    "environmental_tip": "Hydroponics uses 90% less water than traditional soil gardening, producing clean fresh herbs in small indoor spaces!",
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Cut Modular Pods",
+        "instruction": "With adult assistance, cut three plastic bottles in half. Drill or punch a 3mm hole through each bottle cap. Invert the funnel top into the lower base.",
+        "tip": "The cap hole regulates slow drip irrigation between pods!"
+      },
+      {
+        "step_number": 2,
+        "heading": "String the Tower",
+        "instruction": "Thread strong twine through the sides of each bottle pod to hang them vertically in a tiered chain 15cm apart.",
+        "tip": "Hang the tower near a sunny window or balcony railing."
+      },
+      {
+        "step_number": 3,
+        "heading": "Pebbles and Roots",
+        "instruction": "Fill each inverted funnel with porous clay pebbles and nestle herb roots inside. Pour nutrient water into the top bottle\u2014gravity drips it gracefully through all 3 tiers!",
+        "tip": "Catch excess runoff in the bottom reservoir and pour it back to the top once a week."
+      }
+    ]
+  },
+  {
+    "id": "craft-rare-02",
+    "title": "Kaleidoscope Nebula Star Projector",
+    "description": "A rare celestial optical projector made from a cardboard cylinder, transparent bottle plastic, and shiny foil that casts constellations across your ceiling!",
+    "category": "Science",
+    "primary_material": "cardboard",
+    "compatible_objects": [
+      "cardboard tube",
+      "paper roll",
+      "plastic bottle",
+      "cardboard box"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 30,
+    "eco_points": 25,
+    "requires_adult": false,
+    "is_rare": true,
+    "safety_precautions": "Be gentle when handling thin plastic discs.",
+    "materials": [
+      "1 sturdy cardboard mailing tube or paper towel roll",
+      "Aluminum foil or reflective mirror sheet",
+      "Clear plastic sheet cut from a water bottle",
+      "Colorful translucent beads or sequins",
+      "Flashlight"
+    ],
+    "tools": [
+      "Scissors",
+      "Clear tape",
+      "Black paper"
+    ],
+    "environmental_tip": "Optical lenses and light tubes explain how giant space telescopes like Hubble gather starlight from distant galaxies!",
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Build Mirror Prism",
+        "instruction": "Cut a cardstock strip into three equal panels. Wrap in smooth reflective aluminum foil and fold into a triangle prism. Slide the prism snugly inside your cardboard tube.",
+        "tip": "The 3-sided prism produces infinite symmetrical hexagonal reflections!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Nebula Bead Capsule",
+        "instruction": "Cut two clear plastic circles from a smooth water bottle. Place colourful beads and glitter between the circles and seal the edges with tape to create a lens chamber at the front.",
+        "tip": "Use purple, teal, and gold beads to mimic deep space nebula clouds."
+      },
+      {
+        "step_number": 3,
+        "heading": "Project on Ceiling",
+        "instruction": "Turn off bedroom lights. Shine a flashlight through the rear eyehole of the tube while aiming at the ceiling or wall. Rotate the tube to watch exploding galaxies swirl across your room!",
+        "tip": "Slow rotations produce hypnotic, mesmerizing cosmic geometry."
+      }
+    ]
+  },
+  {
+    "id": "craft-rare-03",
+    "title": "Self-Balancing Kinetic Acrobat",
+    "description": "Defy gravity with center-of-mass physics! A balancing acrobat made from bottle caps and coat hanger wire that spins on a pencil tip without falling.",
+    "category": "Science",
+    "primary_material": "plastic",
+    "compatible_objects": [
+      "bottle cap",
+      "wire",
+      "cardboard"
+    ],
+    "age_min": 7,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 25,
+    "eco_points": 25,
+    "requires_adult": true,
+    "is_rare": true,
+    "safety_precautions": "Adult assistance required to bend and cut craft wire safely.",
+    "materials": [
+      "3 plastic bottle caps",
+      "Craft wire or recycled wire coat hanger (30cm)",
+      "Toothpick or wooden skewer",
+      "Playdough or clay (for counterweights)"
+    ],
+    "tools": [
+      "Pliers (adult help)",
+      "Push pin",
+      "Markers"
+    ],
+    "environmental_tip": "Demonstrates center-of-gravity principles used in modern architectural balance and clean wind turbines!",
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Acrobat Head & Pivot",
+        "instruction": "Draw a cheerful face on the central bottle cap. Push a sturdy toothpick vertically through the center so the pointed tip extends 2cm below.",
+        "tip": "This toothpick tip will be the delicate balancing fulcrum!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Curved Balance Arms",
+        "instruction": "Bend your 30cm wire into a deep downward U-curve (like a crescent moon). Attach the center of the wire securely around the head cap.",
+        "tip": "The ends of the wire must hang significantly lower than the toothpick tip."
+      },
+      {
+        "step_number": 3,
+        "heading": "Weight & Balance Test",
+        "instruction": "Attach a bottle cap filled with heavy clay to each wire tip. Place the toothpick tip on your fingertip or a pencil point. Watch the acrobat balance and spin freely in mid-air!",
+        "tip": "If it leans, simply adjust the wire curves until it balances perfectly level."
+      }
+    ]
+  },
+  {
+    "id": "craft-rare-04",
+    "title": "Seed Bomb Catapult & Paper Pulp Spheres",
+    "description": "A rare eco-restoration weapon! Blend shredded newspapers into seed-filled paper pulp spheres and launch them from a cardboard catapult into dry soil.",
+    "category": "Gardening",
+    "primary_material": "paper",
+    "compatible_objects": [
+      "newspaper",
+      "cardboard box",
+      "egg carton",
+      "paper roll"
+    ],
+    "age_min": 6,
+    "age_max": 12,
+    "difficulty": "Medium",
+    "estimated_time_minutes": 30,
+    "eco_points": 25,
+    "requires_adult": false,
+    "is_rare": true,
+    "safety_precautions": "Only launch seed spheres outdoors into gardens or approved soil beds.",
+    "materials": [
+      "Old daily newspaper or scrap paper",
+      "Wildflower or clover seeds",
+      "Water in a bowl",
+      "1 cardboard strip (25cm)",
+      "Rubber bands",
+      "Plastic bottle cap"
+    ],
+    "tools": [
+      "Scissors",
+      "Tape"
+    ],
+    "environmental_tip": "Seed bombing is a global guerrilla gardening movement that brings pollinator wildflowers to barren city lots!",
+    "steps": [
+      {
+        "step_number": 1,
+        "heading": "Make Seed Pulp Balls",
+        "instruction": "Tear newspaper into tiny confetti flakes and soak in warm water for 15 minutes. Squeeze out excess water, sprinkle wildflower seeds inside, and roll into tight marble-sized spheres. Let dry in the sun.",
+        "tip": "The paper protects the seeds from birds until rainfall dissolves the pulp into mulch!"
+      },
+      {
+        "step_number": 2,
+        "heading": "Build Lever Catapult",
+        "instruction": "Glue a plastic bottle cap to the end of a thick cardboard strip to hold your seed ball. Wrap rubber bands around a stacked cardboard fulcrum to create a bouncy spring.",
+        "tip": "Adjust the angle of the fulcrum to test launch distance."
+      },
+      {
+        "step_number": 3,
+        "heading": "Launch for Reforestation",
+        "instruction": "Place a dry seed ball in the cap, pull back the lever arm, and launch into garden beds or barren soil patches. In 7-10 days, green sprouts will erupt!",
+        "tip": "Keep a field journal noting which flower species bloom first."
+      }
+    ]
+  }
+]

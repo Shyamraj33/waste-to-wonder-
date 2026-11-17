@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="gradLeaf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4ade80" />
+      <stop offset="100%" stop-color="#16a34a" />
+    </linearGradient>
+    <linearGradient id="gradSun" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+  </defs>
+  <!-- Background bubble -->
+  <circle cx="50" cy="50" r="48" fill="#dcfce7" stroke="#22c55e" stroke-width="4"/>
+  <!-- Sparkles -->
+  <path d="M78 22 L81 29 L88 32 L81 35 L78 42 L75 35 L68 32 L75 29 Z" fill="#facc15" />
+  <path d="M22 65 L24 70 L29 72 L24 74 L22 79 L20 74 L15 72 L20 70 Z" fill="#38bdf8" />
+  <!-- Sprout / Recycled plant -->
+  <path d="M50 78 C50 62 48 48 50 40 C52 48 50 62 50 78" stroke="#15803d" stroke-width="6" stroke-linecap="round"/>
+  <!-- Leaf Left -->
+  <path d="M49 55 C35 55 28 42 34 32 C45 32 50 45 49 55 Z" fill="url(#gradLeaf)"/>
+  <!-- Leaf Right / Craft scissors shape hint -->
+  <path d="M51 45 C65 42 72 52 66 64 C55 64 50 53 51 45 Z" fill="url(#gradLeaf)"/>
+  <!-- Friendly Face / Craft Spark -->
+  <circle cx="43" cy="40" r="2.5" fill="#14532d"/>
+  <circle cx="57" cy="48" r="2.5" fill="#14532d"/>
+  <path d="M48 48 Q50 51 52 48" stroke="#14532d" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

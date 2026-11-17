@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-[#FAFDF6] text-slate-800 font-body antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display tracking-wide;
+  }
+}
+
+/* Duolingo-style 3D tactile buttons */
+.btn-kid {
+  @apply relative inline-flex items-center justify-center font-display font-bold text-lg px-6 py-3.5 rounded-2xl transition-all duration-150 active:translate-y-1 active:shadow-none select-none;
+}
+
+.btn-kid-green {
+  @apply bg-eco-500 hover:bg-eco-400 text-white shadow-kid-button;
+}
+
+.btn-kid-yellow {
+  @apply bg-sunny-400 hover:bg-sunny-300 text-slate-900 shadow-kid-button-sunny;
+}
+
+.btn-kid-orange {
+  @apply bg-tangerine-500 hover:bg-tangerine-400 text-white shadow-kid-button-orange;
+}
+
+.btn-kid-sky {
+  @apply bg-sky-500 hover:bg-sky-400 text-white shadow-kid-button-sky;
+}
+
+.btn-kid-white {
+  @apply bg-white hover:bg-slate-50 text-slate-800 border-2 border-slate-200 shadow-[0_5px_0_0_#cbd5e1];
+}
+
+/* Card bouncy styles */
+.kid-card {
+  @apply bg-white rounded-3xl p-6 border-2 border-slate-100 shadow-kid-card hover:border-eco-300 transition-all duration-200;
+}
+
+/* Custom bounce / pulse keyframes */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-8px); }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(-3deg); }
+  50% { transform: rotate(3deg); }
+}
+
+.animate-wiggle {
+  animation: wiggle 2s ease-in-out infinite;
+}

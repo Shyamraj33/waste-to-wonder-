@@ -1,0 +1,178 @@
+[
+  {
+    "id": "lesson-ocean-01",
+    "title": "The Great Ocean Rescue: Why Plastic Matters",
+    "category": "Oceans & Marine Life",
+    "icon": "🌊",
+    "summary": "Discover how plastic travels to the ocean and how our upcycling crafts help sea turtles and whales swim safely!",
+    "read_time_minutes": 3,
+    "eco_points": 10,
+    "fun_fact": "A plastic water bottle floating in the ocean can take more than 450 years to break down!",
+    "sections": [
+      {
+        "heading": "Plastic on the Move",
+        "body": "When a plastic bottle or bag is tossed onto the ground, rain and wind can wash it into storm drains, rivers, and eventually out to sea. Once in the ocean, sunlight and waves break plastic into tiny pieces called microplastics."
+      },
+      {
+        "heading": "Friends in Danger",
+        "body": "Sea turtles love eating jellyfish, but floating plastic bags look just like their favorite snack! Whales and sea birds can also accidentally swallow plastic bits when looking for food."
+      },
+      {
+        "heading": "Your Craft Superpower!",
+        "body": "Every time you turn a bottle into a planter, a pencil pot, or a bird feeder, you stop that plastic from ever reaching the sea. You are an ocean guardian!"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why do sea turtles sometimes mistake plastic bags for food?",
+        "options": ["Plastic bags smell sweet", "Floating bags look just like jellyfish", "Turtles use bags as blankets", "Bags make funny noises"],
+        "answer_index": 1,
+        "explanation": "Floating transparent bags look almost identical to jellyfish swimming in deep water!"
+      },
+      {
+        "question": "What happens to plastic when you reuse it for crafts?",
+        "options": ["It gets sent straight to a landfill", "It stays out of nature and gets a useful new purpose", "It turns into salt water", "It floats to outer space"],
+        "answer_index": 1,
+        "explanation": "Upcycling keeps plastic inside our homes as useful art and tools, completely preventing it from harming nature!"
+      },
+      {
+        "question": "About how long can a plastic bottle last in the ocean if not recycled?",
+        "options": ["5 days", "1 month", "Over 450 years", "2 years"],
+        "answer_index": 2,
+        "explanation": "Plastic is extremely resilient and takes around 450 to 500 years to naturally decompose."
+      }
+    ]
+  },
+  {
+    "id": "lesson-trees-02",
+    "title": "Talking Trees: How Cardboard & Paper Recycling Saves Forests",
+    "category": "Forests & Plants",
+    "icon": "🌳",
+    "summary": "Trees give us clean oxygen, shade, and homes for birds. Learn how recycling paper cartons and cardboard saves entire forests!",
+    "read_time_minutes": 3,
+    "eco_points": 10,
+    "fun_fact": "Recycling just one ton of paper saves 17 full-grown trees and 7,000 gallons of water!",
+    "sections": [
+      {
+        "heading": "Where Does Paper Come From?",
+        "body": "Paper and cardboard are made from wood pulp extracted from trees. To make fresh paper, forests are harvested and processed using lots of water and energy."
+      },
+      {
+        "heading": "The Cardboard Magic Circle",
+        "body": "Cardboard can be recycled 5 to 7 times before the fibers get too short! And when you make a cardboard castle, puppet theater, or marble maze, you don't need any new factory processing at all."
+      },
+      {
+        "heading": "Homes for Wildlife",
+        "body": "A single oak tree can be a home, cafeteria, and playground for more than 500 kinds of birds, squirrels, caterpillars, and friendly insects."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "How many full-grown trees does recycling one ton of paper save?",
+        "options": ["1 tree", "5 trees", "17 trees", "0 trees"],
+        "answer_index": 2,
+        "explanation": "One ton of recycled paper preserves approximately 17 mature trees and thousands of gallons of water!"
+      },
+      {
+        "question": "How many times can cardboard fibers typically be recycled?",
+        "options": ["Only 1 time", "5 to 7 times", "100 times", "It cannot be recycled"],
+        "answer_index": 1,
+        "explanation": "Cardboard fibers are durable and can be recycled and remade 5 to 7 times!"
+      },
+      {
+        "question": "What is the best way kids can save trees right now?",
+        "options": ["Use both sides of every paper page and build toys from scrap cardboard", "Stop drawing completely", "Throw paper in the creek", "Leave notebook lights on"],
+        "answer_index": 0,
+        "explanation": "Drawing on both sides of paper and crafting with delivery boxes saves tons of paper every year!"
+      }
+    ]
+  },
+  {
+    "id": "lesson-upcycle-03",
+    "title": "Upcycling Magic: The Difference Between Reusing, Recycling & Upcycling",
+    "category": "Creative Sustainability",
+    "icon": "✨",
+    "summary": "Unravel the secret eco-vocabulary! Find out why upcycling is the most creative and fun of the three R's.",
+    "read_time_minutes": 3,
+    "eco_points": 10,
+    "fun_fact": "Upcycling creates an item of HIGHER value or beauty than the original waste item!",
+    "sections": [
+      {
+        "heading": "The Three Eco Cousins",
+        "body": "1. **Reduce**: Using less stuff so we don't create waste in the first place.\n2. **Reuse**: Using something again for the same job, like a reusable water bottle.\n3. **Recycle**: Sending materials to a big factory to be melted down into raw plastic or aluminum pellets."
+      },
+      {
+        "heading": "Then What is Upcycling?",
+        "body": "**Upcycling** means using your imagination to turn something old or discarded into something even better and more artistic! An empty tin can becomes a musical drum, a cardboard box becomes an airplane, or an old t-shirt becomes a reusable grocery bag."
+      },
+      {
+        "heading": "Zero Energy, Maximum Fun",
+        "body": "Factories need lots of electricity to melt metals and plastics. Upcycling requires zero factory fuel—just your hands, some glue, scissors, and imagination!"
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does 'Upcycling' mean?",
+        "options": ["Riding a bicycle uphill", "Transforming waste into something of higher beauty or utility", "Throwing trash higher in the air", "Buying more plastic toys"],
+        "answer_index": 1,
+        "explanation": "Upcycling takes discarded waste and upgrades it into a brand new, higher-value treasure!"
+      },
+      {
+        "question": "Which of these is an example of upcycling?",
+        "options": ["Throwing an egg carton into the bin", "Turning an empty egg carton into cute little caterpillars and bees", "Burning a plastic bottle", "Leaving paper out in the rain"],
+        "answer_index": 1,
+        "explanation": "Turning an egg carton into animal crafts is creative upcycling!"
+      },
+      {
+        "question": "Why is DIY upcycling great for the planet?",
+        "options": ["It requires no industrial factory energy, just your creativity", "It makes a lot of smog", "It uses up all the gasoline", "It creates more plastic"],
+        "answer_index": 0,
+        "explanation": "Upcycling at home doesn't use industrial factory furnaces—it's 100% clean, creative fun!"
+      }
+    ]
+  },
+  {
+    "id": "lesson-animals-04",
+    "title": "Guardians of the Wild: Protecting Animals from Trash",
+    "category": "Wildlife Protection",
+    "icon": "🦊",
+    "summary": "Birds, foxes, hedgehogs, and squirrels share our neighborhoods. Learn how keeping waste clean and enclosed keeps animals safe.",
+    "read_time_minutes": 3,
+    "eco_points": 10,
+    "fun_fact": "Birds sometimes use bits of clean scrap yarn and paper strips to build warm, cozy nests for baby chicks!",
+    "sections": [
+      {
+        "heading": "Curious Neighborhood Creatures",
+        "body": "Wild animals have sharp noses and love sniffing around human yards. But open cans with sharp metal edges or tangled plastic six-pack rings can hurt curious paws and beaks."
+      },
+      {
+        "heading": "Clean Waste Rule",
+        "body": "Whenever you save a jar or can for crafting, ask an adult to help you rinse it thoroughly with soapy water. Clean items are safe for your hands and won't attract insects!"
+      },
+      {
+        "heading": "Crafting for Critters",
+        "body": "You can even craft directly to help animals! A plastic bottle or milk carton makes a wonderful bird feeder that helps birds find seeds during chilly winters."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why should we always rinse containers before crafting with them?",
+        "options": ["To remove food residue and make them clean and safe to handle", "To make them heavier", "To change their color to blue", "To dissolve them immediately"],
+        "answer_index": 0,
+        "explanation": "Washing containers removes bacteria and sticky food, making your crafting clean and pleasant!"
+      },
+      {
+        "question": "What craft directly helps wild birds during cold winters?",
+        "options": ["A plastic bottle bird feeder filled with seeds", "A heavy rock sculpture", "A loud whistle", "A plastic shopping bag"],
+        "answer_index": 0,
+        "explanation": "A clean recycled bottle bird feeder gives feathered friends a safe snack station!"
+      },
+      {
+        "question": "What should you do if you see a plastic ring on a soda bottle before recycling?",
+        "options": ["Snip the ring so birds cannot get tangled", "Throw it in the river", "Eat it", "Bury it under leaves"],
+        "answer_index": 0,
+        "explanation": "Cutting closed rings prevents wild birds and aquatic creatures from getting caught!"
+      }
+    ]
+  }
+]

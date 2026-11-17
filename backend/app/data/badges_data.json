@@ -1,0 +1,57 @@
+[
+  {
+    "id": "badge-eco-explorer",
+    "name": "Eco Explorer",
+    "description": "Awarded for completing your very first EcoCraft project!",
+    "icon": "🌱",
+    "required_type": "craft_count",
+    "threshold": 1,
+    "color": "#22c55e"
+  },
+  {
+    "id": "badge-plastic-hero",
+    "name": "Plastic Hero",
+    "description": "Awarded for rescuing plastic bottles or containers from ending up in landfills!",
+    "icon": "🛡️",
+    "required_type": "material_craft",
+    "target_material": "plastic",
+    "threshold": 1,
+    "color": "#0ea5e9"
+  },
+  {
+    "id": "badge-creative-recycler",
+    "name": "Creative Recycler",
+    "description": "Showed versatile creativity by crafting with at least 3 different materials!",
+    "icon": "🎨",
+    "required_type": "unique_materials",
+    "threshold": 3,
+    "color": "#f59e0b"
+  },
+  {
+    "id": "badge-nature-guardian",
+    "name": "Nature Guardian",
+    "description": "Proved eco-smarts by scoring 100% on any Eco Learning Center quiz!",
+    "icon": "🦊",
+    "required_type": "perfect_quiz",
+    "threshold": 1,
+    "color": "#10b981"
+  },
+  {
+    "id": "badge-recycling-champ",
+    "name": "Recycling Champion",
+    "description": "Earned over 100 Eco-Points through crafting and environmental learning!",
+    "icon": "🏆",
+    "required_type": "eco_points",
+    "threshold": 100,
+    "color": "#eab308"
+  },
+  {
+    "id": "badge-master-upcycler",
+    "name": "Master Upcycler",
+    "description": "A true DIY master: successfully created 5 wonderful upcycled projects!",
+    "icon": "🚀",
+    "required_type": "craft_count",
+    "threshold": 5,
+    "color": "#a855f7"
+  }
+]
